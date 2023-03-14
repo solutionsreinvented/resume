@@ -1,0 +1,41 @@
+/* Global styles
+**********************************************/
+
+body {
+    background: #B9B7BD;
+
+}
+
+.section-header {
+    background: #2F5061;
+    color: #F4EAE6;
+    padding: 10px;
+}
+
+/* Header and Footer
+**********************************************/
+.profile-picture{
+    width: 20px;
+    height: 20px;
+}
+
+header,
+footer {
+    background: #2F5061;
+    text-align: center;
+    color: #F4EAE6;
+    padding: 5px 0px;
+}
+
+/* Profile Summary
+**********************************************/
+
+
+/* Key Proficiencies
+**********************************************/
+
+/* Academics
+**********************************************/
+
+/* Work
+**********************************************/
