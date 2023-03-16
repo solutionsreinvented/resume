@@ -61,7 +61,7 @@ em {
 
 .company-info {
   display: grid;
-  grid-template-columns: 45% 20% 30%;
+  grid-template-columns: 50% 20% 30%;
 }
 
 .company-info h3,
